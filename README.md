@@ -1,4 +1,4 @@
-# permission
+# Permission
 
 A new Flutter project.
 
