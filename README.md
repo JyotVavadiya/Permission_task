@@ -1,5 +1,14 @@
 ## **Permissions** 
 
-* item 1
-* item 2
-* item 3
+* Call Permission
+* Calender Permission
+* SMS Permission
+* Location Permission
+* Camera Permission
+* Bluetooth Permission
+
+'''BASH
+
+Package: permission_handler
+
+'''
