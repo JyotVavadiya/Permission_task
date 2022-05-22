@@ -7,8 +7,8 @@
 * Camera Permission
 * Bluetooth Permission
 
-'''BASH
+```bash
 
 Package: permission_handler
 
-'''
+```
